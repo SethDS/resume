@@ -7,14 +7,6 @@
     left: 500px;
     margin-bottom: 200px;
 }
-.border-div{
-    position: absolute;
-    height: 98.75%;
-    width: 98.75%;
-    border: 1px solid white;
-    top: 0.5%;
-    left: 0.5%;
-}
 
 .name{
     text-transform: uppercase;
@@ -22,8 +14,78 @@
     font-family: 'Julius Sans One', sans-serif;
     font-size: large;
     position: relative;
-    top: 50px;
-    left: 200px;
+    top: 25px;
+    left: 50px;
 }
 .david{
-    color: #65626b;}
+    color: #65626b;
+}
+
+.contact{
+    position: absolute;
+    top: 22px;
+    left: 365px;
+    font-family: 'Belleza', sans-serif;
+    color: white;
+    letter-spacing: 5px;
+}
+
+.skills-heading{
+    position: absolute;
+    top: 138px;
+    left: 51px;
+    font-family: 'Julius Sans One', sans-serif;
+    text-transform: uppercase;
+    color: white;
+}
+.skills{
+    position: absolute;
+    top: 180px;
+    left: 99px;
+    color: white;
+    font-family: 'Belleza', sans-serif;
+    letter-spacing: 5px;
+}
+
+.visit-heading{
+    position: absolute;
+    top: 875px;
+    left: 51px;
+    color: white;
+    font-family: 'Julius Sans One', sans-serif;
+    text-transform: uppercase;
+}
+.visit{
+    position: absolute;
+    top: 920px;
+    left: 99px;
+    color: white;
+    font-family: 'Belleza', sans-serif;
+    letter-spacing: 5px;
+}
+
+
+.divider-x{
+    position: absolute;
+    height: 70px;
+    width: 1px;
+    background-color: white;
+    top: 26px;
+    left: 320px;
+}
+.divider-x-two{
+    position: absolute;
+    height: 802px;
+    width: 1px;
+    background-color: white;
+    top: 96px;
+    left: 235px;
+}
+.divider-y{
+    height: 1px;
+    width: 669px;
+    position: absolute;
+    background-color: white;
+    left: 52px;
+    top: 95px;
+}
